@@ -1,7 +1,7 @@
 OneLevelHero_GraphicTeam
 ========================
 ## 일감 확인
-https://docs.google.com/spreadsheets/d/1XXEy-dhoZ4GeTzycy6QUbZQAaFUr_myGuyAaquaV6iE/edit#gid=386522477 에서 자신이 작업할 일감에 자신의 이름을 적고 작업을 진행한다.
+그래픽 워크시트 https://docs.google.com/spreadsheets/d/1XXEy-dhoZ4GeTzycy6QUbZQAaFUr_myGuyAaquaV6iE/edit#gid=386522477에서 자신이 작업할 일감에 자신의 이름을 적고 작업을 진행한다.
 
 ## 이슈 등록
 우측의 issues 글씨를 누르거나 https://github.com/CienProject2014/OneLevelHero_GraphicTeam/issues로 들어가셔서
