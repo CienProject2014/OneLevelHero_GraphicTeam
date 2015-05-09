@@ -20,5 +20,5 @@ new issue 버튼을 눌러 이슈를 만든다.
   * 다른 사람의 작품에 코멘트를 달아주어 피드백을 해주자.
 
 ## 그래픽팀
-그래픽팀의 전반적인 내용은 위키(http://cien.woobi.co.kr/dokuwiki/doku.php?id=%EC%A0%9C%EC%9E%91%ED%99%9C%EB%8F%99:%EA%B7%B8%EB%9E%98%ED%94%BD_%ED%8C%80_%EC%9E%91%EC%97%85_%EC%82%AC%EC%9D%B4%ED%81%B4)참조!
+그래픽팀의 전반적인 내용은 위키(http://cien.woobi.co.kr/dokuwiki/doku.php?id=%EC%A0%9C%EC%9E%91%ED%99%9C%EB%8F%99:%EA%B7%B8%EB%9E%98%ED%94%BD_%ED%8C%80_%EC%9E%91%EC%97%85_%EC%82%AC%EC%9D%B4%ED%81%B4) 참조!
 
