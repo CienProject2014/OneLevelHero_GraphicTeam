@@ -2,7 +2,7 @@ OneLevelHero_GraphicTeam
 ========================
 
 ## 일감 확인
-* 그래픽 워크시트 https://docs.google.com/spreadsheets/d/1BqWE2mFvf3_8gwSpC0s-tR0p64VAt9zqC9DqUFdWtFg/edit?usp=sharing
+* 그래픽 워크시트 : https://docs.google.com/spreadsheets/d/1BqWE2mFvf3_8gwSpC0s-tR0p64VAt9zqC9DqUFdWtFg/edit?usp=sharing
 * 메인스토리 관련 시트 : https://drive.google.com/open?id=1WFmEi2pH7BoGu3QUCxz_N1kb95GeheICZvQVaW3ep7I
 * 필드몬스터 관련 시트 : https://drive.google.com/open?id=1JoGg4UZrXQTvTOfZVQkHSA1JVRUa4RaCsIXd-6GtvGY
 
