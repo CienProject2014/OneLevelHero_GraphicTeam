@@ -5,6 +5,11 @@ OneLevelHero_GraphicTeam
 그래픽 워크시트 https://docs.google.com/spreadsheets/d/1BqWE2mFvf3_8gwSpC0s-tR0p64VAt9zqC9DqUFdWtFg/edit?usp=sharing
 에서 자신이 작업할 일감에 자신의 이름을 적고 작업을 진행한다.
 
+https://drive.google.com/open?id=1WFmEi2pH7BoGu3QUCxz_N1kb95GeheICZvQVaW3ep7I
+메인스토리 관련
+https://drive.google.com/open?id=1JoGg4UZrXQTvTOfZVQkHSA1JVRUa4RaCsIXd-6GtvGY
+필드몬스터 관련
+
 ## 이슈 등록
 우측의 issues 글씨를 누르거나 https://github.com/CienProject2014/OneLevelHero_GraphicTeam/issues로 들어가셔서
 new issue 버튼을 눌러 이슈를 만든다.
